@@ -6,6 +6,6 @@ def position_taken?(board,index)
     return false
   elsif(board[index]='X')
     return true
-  
+
   end
 end
